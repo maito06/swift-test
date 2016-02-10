@@ -1,2 +1,2 @@
 d# swift-test
-swift with Xcode test
+test github and xcode similarly
